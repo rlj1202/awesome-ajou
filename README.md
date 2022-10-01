@@ -1,4 +1,5 @@
 # awesome-ajou
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 프린터
 - 아주대학교 프린터
